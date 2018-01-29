@@ -4,5 +4,3 @@ This is a game based on solving logical expressions. It presents the user with a
 Included is the script file to run the game, the assets use in the game, and the PowerPoint used to plan the game.
 
 The target audience is high schoolers who are learning basic computer science and assumes they know how to solve logical expressions.
-
-This submission is for Samuel McBroom (scm3vr), Saeed Razavi (slr4gf), Jake Smith (jts5np), James Chen (jtc4cg), and Daniel Zarco (dz7as)
